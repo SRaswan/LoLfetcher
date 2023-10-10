@@ -1,5 +1,5 @@
 # python-repo-example
-This is a repo for fetching Leage of Legends player data (Data Dragon) from AWS S3.
+This is a repo for fetching Leage of Legends player data (Data Dragon) from AWS S3 and aggregating the data.
 
 ## .vscode
 This folder should contain at least a `launch.json` file that provides entry points into the package.  This could be entry points to example programs, typical debug entry points, etc.  Ideally, this will also contain a `settings.json` with folder specific VS Code settings.
